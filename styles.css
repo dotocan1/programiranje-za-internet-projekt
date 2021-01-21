@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.book-form {
+    text-align: center;
+}
+
+.myContent {
+    max-width: 35%;
+}
+
+.center-element {
+    text-align: center;
+}
+
+.color-navbar {
+    background-color: #74b9ff;
+    border-bottom: black;
+}
+
+.navbar {
+    border-bottom: 2px solid #0984e3;
+}
